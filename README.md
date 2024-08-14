@@ -11,7 +11,7 @@ Student name: Khalid Al Mulla
 
 Git repository URL: https://github.com/kbm977/Kingdom-Tower/new/main?filename=README.md
 
-Gameplay video URL: 
+Gameplay video URL: https://youtu.be/ZLF9la6ykTI
 
 Game information
 
